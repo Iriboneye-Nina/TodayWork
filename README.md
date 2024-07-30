@@ -6,4 +6,5 @@
  - git commit : history of what I have  done 
  - git Branch : branch of where I put what I have  done I created two branch
  - git rebase : rebase I used it to combine working of those two branch
- - git  
+ - git  checkout: to enter in branch
+ - git push: used to push codes
